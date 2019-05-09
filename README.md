@@ -17,7 +17,7 @@ Package overview
 * `mir_navigation`: move_base launch and configuration files
 
 
-Installation
+Installatio
 ------------
 
 You can chose between binary and source install below. If you don't want to
